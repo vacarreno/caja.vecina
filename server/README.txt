@@ -1,1 +1,0 @@
-Backend 2.0 – Estructura lista para código final.
